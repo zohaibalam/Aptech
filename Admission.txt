@@ -1,0 +1,12 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<h1>Admission</h1>
+<p>This is Admissin page.</p>
+
+</body>
+</html>
+
